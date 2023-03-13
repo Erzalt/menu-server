@@ -1,0 +1,10 @@
+com/cicdlectures/menuserver/dto/DishDto.class
+com/cicdlectures/menuserver/service/ListMenuService.class
+com/cicdlectures/menuserver/repository/DishRepository.class
+com/cicdlectures/menuserver/model/Dish.class
+com/cicdlectures/menuserver/repository/MenuRepository.class
+com/cicdlectures/menuserver/MenuServerApplication.class
+com/cicdlectures/menuserver/dto/MenuDto.class
+com/cicdlectures/menuserver/service/CreateMenuService.class
+com/cicdlectures/menuserver/model/Menu.class
+com/cicdlectures/menuserver/controller/MenuController.class

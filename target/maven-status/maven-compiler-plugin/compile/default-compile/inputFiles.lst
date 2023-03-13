@@ -1,0 +1,10 @@
+/workspace/menu-server/src/main/java/com/cicdlectures/menuserver/service/CreateMenuService.java
+/workspace/menu-server/src/main/java/com/cicdlectures/menuserver/repository/DishRepository.java
+/workspace/menu-server/src/main/java/com/cicdlectures/menuserver/controller/MenuController.java
+/workspace/menu-server/src/main/java/com/cicdlectures/menuserver/model/Dish.java
+/workspace/menu-server/src/main/java/com/cicdlectures/menuserver/model/Menu.java
+/workspace/menu-server/src/main/java/com/cicdlectures/menuserver/MenuServerApplication.java
+/workspace/menu-server/src/main/java/com/cicdlectures/menuserver/dto/MenuDto.java
+/workspace/menu-server/src/main/java/com/cicdlectures/menuserver/repository/MenuRepository.java
+/workspace/menu-server/src/main/java/com/cicdlectures/menuserver/dto/DishDto.java
+/workspace/menu-server/src/main/java/com/cicdlectures/menuserver/service/ListMenuService.java
