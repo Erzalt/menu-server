@@ -1,6 +1,7 @@
 name: Bonjour
 on:
   - push
+  - pull_request
 jobs:
   dire_bonjour:
     runs-on: ubuntu-22.04
